@@ -26,14 +26,7 @@ Les cases sont numérotées de 1 à 9 pour faciliter le choix des joueurs.
 ```bash
 python morpion.py
 ```
-2. Le plateau s’affiche avec les numéros des cases :
-
-|1️⃣ |2️⃣ |3️⃣ |
- ----+----+----
-|4️⃣ |5️⃣ |6️⃣ |
- ----+----+----
-|7️⃣ |8️⃣ |9️⃣ |
- ----+----+----
+2. Le plateau s’affiche avec les numéros des cases.
 
 3. Chaque joueur choisit une case libre en entrant un nombre entre 1 et 9.
 
